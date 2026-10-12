@@ -29,10 +29,10 @@ cp colors/* ~/.config/pragtical/colors
 
 ## Preview
 ### Ayu Mirage
-![ayu-mirage](./images/mirage.png)
+![ayu-mirage](./images/ayu_mirage.png)
 
 ### Ayu Dark
-![ayu-dark](./images/dark.png)
+![ayu-dark](./images/ayu_dark.png)
 
 ### Ayu Light
-![ayu-light](./images/light.png)
+![ayu-light](./images/ayu_light.png)
